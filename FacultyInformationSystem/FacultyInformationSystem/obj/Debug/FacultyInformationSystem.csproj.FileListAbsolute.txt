@@ -1,0 +1,16 @@
+C:\Users\Zeynep\Desktop\Yeni klasör\odev-2-uluturkzeynep\FacultyInformationSystem\FacultyInformationSystem\bin\Debug\FacultyInformationSystem.exe.config
+C:\Users\Zeynep\Desktop\Yeni klasör\odev-2-uluturkzeynep\FacultyInformationSystem\FacultyInformationSystem\bin\Debug\FacultyInformationSystem.exe
+C:\Users\Zeynep\Desktop\Yeni klasör\odev-2-uluturkzeynep\FacultyInformationSystem\FacultyInformationSystem\bin\Debug\FacultyInformationSystem.pdb
+C:\Users\Zeynep\Desktop\Yeni klasör\odev-2-uluturkzeynep\FacultyInformationSystem\FacultyInformationSystem\obj\Debug\FacultyInformationSystem.csprojAssemblyReference.cache
+C:\Users\Zeynep\Desktop\Yeni klasör\odev-2-uluturkzeynep\FacultyInformationSystem\FacultyInformationSystem\obj\Debug\FacultyInformationSystem.Properties.Resources.resources
+C:\Users\Zeynep\Desktop\Yeni klasör\odev-2-uluturkzeynep\FacultyInformationSystem\FacultyInformationSystem\obj\Debug\FacultyInformationSystem.UI.resources
+C:\Users\Zeynep\Desktop\Yeni klasör\odev-2-uluturkzeynep\FacultyInformationSystem\FacultyInformationSystem\obj\Debug\FacultyInformationSystem.csproj.GenerateResource.cache
+C:\Users\Zeynep\Desktop\Yeni klasör\odev-2-uluturkzeynep\FacultyInformationSystem\FacultyInformationSystem\obj\Debug\FacultyInformationSystem.csproj.CoreCompileInputs.cache
+C:\Users\Zeynep\Desktop\Yeni klasör\odev-2-uluturkzeynep\FacultyInformationSystem\FacultyInformationSystem\obj\Debug\FacultyInformationSystem.exe
+C:\Users\Zeynep\Desktop\Yeni klasör\odev-2-uluturkzeynep\FacultyInformationSystem\FacultyInformationSystem\obj\Debug\FacultyInformationSystem.pdb
+C:\Users\Zeynep\Desktop\Yeni klasör\odev-2-uluturkzeynep\FacultyInformationSystem\FacultyInformationSystem\obj\Debug\FacultyInformationSystem.DepartmentForm.resources
+C:\Users\Zeynep\Desktop\Yeni klasör\odev-2-uluturkzeynep\FacultyInformationSystem\FacultyInformationSystem\obj\Debug\FacultyInformationSystem.FacultyForm.resources
+C:\Users\Zeynep\Desktop\Yeni klasör\odev-2-uluturkzeynep\FacultyInformationSystem\FacultyInformationSystem\obj\Debug\FacultyInformationSystem.LecturerForm.resources
+C:\Users\Zeynep\Desktop\Yeni klasör\odev-2-uluturkzeynep\FacultyInformationSystem\FacultyInformationSystem\obj\Debug\FacultyInformationSystem.LessonsForm.resources
+C:\Users\Zeynep\Desktop\Yeni klasör\odev-2-uluturkzeynep\FacultyInformationSystem\FacultyInformationSystem\obj\Debug\FacultyInformationSystem.Students.resources
+C:\Users\Zeynep\Desktop\Yeni klasör\odev-2-uluturkzeynep\FacultyInformationSystem\FacultyInformationSystem\obj\Debug\FacultyInformationSystem.UniversityForm.resources
